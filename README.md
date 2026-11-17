@@ -2,39 +2,47 @@
 
 # 🕷️ MadOxs / XamINC 🎮
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=550&lines=Welcome+to+my+official+GitHub+profile!;Roblox+Streamer+%26+Content+Creator;1.05K%2B+Subscribers+on+YouTube+%40XamINC;Gamer+%7C+Roblox+Lua+Dev+%7C+Community+Builder;Subscribe+for+free+fun!+%F0%9F%A4%A3%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=500&lines=Welcome+to+my+official+GitHub+profile!;Gamer+%7C+Streamer+%7C+Roblox+Creator;Escape+DOORS+or+get+eliminated+%F0%9F%9A%AA%F0%9F%92%80;Building+awesome+stuff+with+Lua+%26+Code!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.youtube.com/@XamINC"><img src="https://img.shields.io/badge/YouTube-XamINC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://twitch.tv/madoxs10"><img src="https://img.shields.io/badge/Twitch-madoxs10-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://kick.com/ostaadximad"><img src="https://img.shields.io/badge/Kick-ostaadximad-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" /></a>
-  <a href="https://tiktok.com/@beingxaminc"><img src="https://img.shields.io/badge/TikTok-@beingxaminc-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:siam80623@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.youtube.com/@XamINC" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-XamINC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitch.tv/madoxs10" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-madoxs10-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+  <a href="https://kick.com/ostaadximad" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-ostaadximad-53FC18?style=for-the-badge&logo=kick&logoColor=black" alt="Kick" />
+  </a>
+  <a href="https://tiktok.com/@beingxaminc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%40beingxaminc-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:siam80623@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadOXs12&color=e63946&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MadOXs12&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
----
 
 </div>
 
-## 🚀 About Me
+---
+
+### 🚀 About Me
 
 > *"Welcome To My Channel. Make Sure You've already joined our family, so first subscribe to our channel. We Can Play Games Together!!!"*
 
 - 🕹️ **Main Quest:** Streaming Roblox mayhem, hilarious gaming moments, DOORS escapes, and ranked grinds!
-- 📺 **Content Creator:** Running the **[XamINC YouTube Channel](https://www.youtube.com/@XamINC)** with **1.05K+ subscribers** and 95+ videos.
+- 📺 **Content Creator:** Running the [**XamINC YouTube Channel**](https://www.youtube.com/@XamINC) with **1.05K+ subscribers** and 95+ videos.
 - 🛠️ **Tech & Dev:** Exploring **Roblox Studio / Lua scripting**, game mechanics, and interactive web tools.
 - ⚽ **Passions:** Massive football fan (Argentina & Barça supporter 🇦🇷 🫶), gaming setups, and video editing.
 - 🤝 **Community:** Connecting with fellow gamers and creators around the globe!
 
 ---
 
-## 🛠️ Tech & Creator Arsenal
+### 🛠️ Tech & Creator Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
@@ -49,25 +57,19 @@
 
 ---
 
-## 📊 GitHub & Coding Stats
+### 📊 GitHub & Gaming Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MadOXs12&theme=tokyonight&hide_border=true&background=0d1117&stroke=e53935&ring=e53935&fire=00e5ff&currStreakLabel=00e5ff" alt="MadOXs12's Streak Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MadOXs12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MadOXs12's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadOXs12&theme=tokyonight&hide_border=true&background=0d1117" alt="MadOXs12's Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadOXs12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadOXs12&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=e53935&line=00e5ff&point=e53935" alt="Activity Graph" width="95%" />
+</p>
 
 ---
 
-## 🎮 Channel Highlights & Series
+### 🎮 Channel Highlights & Series
 
 - 🔴 **Roblox Live Streams:** Grinding ranked, hilarious server interactions, and community games.
 - 🚪 **DOORS Challenges:** Escapes, jumpscares, and clutch survival runs.
@@ -82,6 +84,6 @@
 
 Drop a star ⭐ on this repo if you vibe with the content!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe%20to%20XamINC-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@XamINC)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe%20on%20YouTube-%40XamINC-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XamINC)
 
 </div>
